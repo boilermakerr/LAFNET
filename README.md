@@ -59,7 +59,7 @@ or its base repo https://github.com/shouxieai/tensorRT_Pro
 2. Convert the pytorch pt and deploy follow the repo tutorial.
 
 
-
+## Obita Yulong 810 have passed the deployment test, LAFNET is supported,  the deploayment method is coming.
 ## Ongoing efforts to build the repo ...
 
    
