@@ -7,10 +7,7 @@ It's an opensource dataset, we can download it from easily from this website: ht
 ### The model is base on ultralytics YOLOv5 framework of version 7.0 
 https://github.com/ultralytics/yolov5
 
-Download trained result weight for FlameVision from Baidu netdisk:
-[LAFNET.pt](https://pan.baidu.com/s/1bmUw52x-QLXaGcoTazX6Wg?pwd=vf7x)
 
-https://pan.baidu.com/s/1bmUw52x-QLXaGcoTazX6Wg?pwd=vf7x
 
 1. Download YOLOv5 environment
    
